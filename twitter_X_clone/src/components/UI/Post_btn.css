@@ -1,0 +1,9 @@
+.post_btn{
+    background-color: aliceblue;
+    cursor: pointer;
+    
+}
+
+.post_btn:hover{
+    background-color: #1da1f2;
+}
