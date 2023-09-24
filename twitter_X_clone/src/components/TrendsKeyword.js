@@ -20,6 +20,18 @@ const TrendsKeyword = () => {
       keyword: "#INDVSPAK",
       totalKeywords: "235k",
     },
+    {
+      id: 4,
+      country: "Trend in India",
+      keyword: "#Bhaiyya",
+      totalKeywords: "603k",
+    },{
+      id: 5,
+      country: "Trend in India",
+      keyword: "#Shyam Bhau",
+      totalKeywords: "603k",
+    },
+
   ]);
   return (
     <div className="keywords">
